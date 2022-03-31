@@ -25,6 +25,6 @@ Project 5: [Deploying a Sentiment Analysis Model on AWS](./2.%20Landmark%20Class
 
 * #### Udacity Personalised Project 5 [Review](./Reviews/5th.pdf) Passed
 
-### [Nanodegree Completion Certificate](https://confirm.udacity.com/WH2HU5CG)
+### [Nanodegree Completion Certificate](https://confirm.udacity.com/GCYSVLDS)
 ![Nanodegree completion certificate](./Udacity_DL.png)
 
